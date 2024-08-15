@@ -2,9 +2,9 @@ Global / onChangedBuildSource := ReloadOnSourceChanges
 
 inThisBuild(Seq(
 	organization	:= "de.djini",
-	version			:= "0.8.0",
+	version			:= "0.9.0",
 
-	scalaVersion	:= "3.4.0",
+	scalaVersion	:= "3.4.1",
 	scalacOptions	++= Seq(
 		"-feature",
 		"-deprecation",
@@ -69,7 +69,7 @@ lazy val `sccontrol-midi`	=
 	.settings(
 		scalacOptions	++= Seq(),
 		libraryDependencies	++= Seq(
-			"de.djini"	%%	"scutil-jdk"	% "0.247.0"	% "compile",
+			"de.djini"	%%	"scutil-jdk"	% "0.248.0"	% "compile",
 			"io.monix"	%%	"minitest"		% "2.9.6"	% "test"
 		),
 		testFrameworks	+= new TestFramework("minitest.runner.Framework"),
@@ -82,8 +82,8 @@ lazy val `sccontrol-osc`	=
 	.settings(
 		scalacOptions	++= Seq(),
 		libraryDependencies	++= Seq(
-			"de.djini"	%%	"scutil-jdk"	% "0.247.0"	% "compile",
-			"de.djini"	%%	"scparse-ng"	% "0.256.0"	% "compile",
+			"de.djini"	%%	"scutil-jdk"	% "0.248.0"	% "compile",
+			"de.djini"	%%	"scparse-ng"	% "0.257.0"	% "compile",
 			"io.monix"	%%	"minitest"		% "2.9.6"	% "test"
 		),
 		testFrameworks	+= new TestFramework("minitest.runner.Framework"),
@@ -96,7 +96,7 @@ lazy val `sccontrol-device`	=
 	.settings(
 		scalacOptions	++= Seq(),
 		libraryDependencies	++= Seq(
-			"de.djini"	%%	"scutil-jdk"	% "0.247.0"	% "compile",
+			"de.djini"	%%	"scutil-jdk"	% "0.248.0"	% "compile",
 			"io.monix"	%%	"minitest"		% "2.9.6"				% "test"
 		),
 		testFrameworks	+= new TestFramework("minitest.runner.Framework"),

@@ -1,0 +1,68 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(16fd3f59-e3f3-4539-96c8-6a588b613cce), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: sccontrol-midi / Test / test, sccontrol-osc / Test / test, sccontrol-device / Test / test, Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 24 Scala sources to /home/daniel/Project/git/sccontrol/modules/device/target/scala-3.3.1/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msccontrol.osc.OscTimetagTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msccontrol.osc.OscFormatTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OSC should roundtrip format and parse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OSC should parse a message[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OSC should parse a string[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/daniel/Project/git/sccontrol/modules/device/src/main/scala/midiMix/MidiMixClient.scala:8:7 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m8 |[0m[33mimport[0m scaudio.device.midiMix.protocol.*[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       Not found: scaudio[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/daniel/Project/git/sccontrol/modules/device/src/main/scala/midiMix/MidiMixServer.scala:8:7 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m8 |[0m[33mimport[0m scaudio.device.midiMix.protocol.*[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       Not found: scaudio[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/daniel/Project/git/sccontrol/modules/device/src/main/scala/midiMix/protocol/Protocol.scala:5:7 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m[33mimport[0m scaudio.device.midiMix.MidiMixDevice[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       Not found: scaudio[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/daniel/Project/git/sccontrol/modules/device/src/main/scala/mpkMini/MpkMiniClient.scala:7:7 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m7 |[0m[33mimport[0m scaudio.device.mpkMini.protocol.*[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       Not found: scaudio[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/daniel/Project/git/sccontrol/modules/device/src/main/scala/mpkMini/MpkMiniServer.scala:8:7 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m8 |[0m[33mimport[0m scaudio.device.mpkMini.protocol.*[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       Not found: scaudio[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/daniel/Project/git/sccontrol/modules/device/src/main/scala/mpkMini/protocol/Keyboard.scala:5:7 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m[33mimport[0m scaudio.device.MidiKeyRange[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       Not found: scaudio[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/daniel/Project/git/sccontrol/modules/device/src/main/scala/mpkMini/protocol/PadBank.scala:5:7 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m[33mimport[0m scaudio.device.MidiKeyRange[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       Not found: scaudio[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msccontrol.osc.OscServerTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscServer should accept messages[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 14, Failed 0, Errors 0, Passed 14[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(sccontrol-device / Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed Sep 11, 2023, 8:32:08 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

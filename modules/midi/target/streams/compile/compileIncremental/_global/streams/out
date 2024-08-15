@@ -1,0 +1,47 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 0 products, 0 sources, 0 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/modules/midi/src/main/scala/MidiValue.scala, ${BASE}/modules/midi/src/main/scala/package.scala, ${BASE}/modules/midi/src/main/scala/MidiHandler.scala, ${BASE}/modules/midi/src/main/scala/MidiClient.scala, ${BASE}/modules/midi/src/main/scala/MidiController.scala, ${BASE}/modules/midi/src/main/scala/MidiInfo.scala, ${BASE}/modules/midi/src/main/scala/MidiTime.scala, ${BASE}/modules/midi/src/main/scala/MidiEvent.scala, ${BASE}/modules/midi/src/main/scala/MidiKey.scala, ${BASE}/modules/midi/src/main/scala/MidiServer.scala, ${BASE}/modules/midi/src/main/scala/MidiVelocity.scala, ${BASE}/modules/midi/src/main/scala/MidiChannel.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(${BASE}/modules/midi/src/main/scala/MidiChannel.scala, ${BASE}/modules/midi/src/main/scala/MidiValue.scala, ${BASE}/modules/midi/src/main/scala/MidiClient.scala, ${BASE}/modules/midi/src/main/scala/MidiHandler.scala, ${BASE}/modules/midi/src/main/scala/MidiKey.scala, ${BASE}/modules/midi/src/main/scala/MidiController.scala, ${BASE}/modules/midi/src/main/scala/MidiEvent.scala, ${BASE}/modules/midi/src/main/scala/package.scala, ${BASE}/modules/midi/src/main/scala/MidiInfo.scala, ${BASE}/modules/midi/src/main/scala/MidiVelocity.scala, ${BASE}/modules/midi/src/main/scala/MidiServer.scala, ${BASE}/modules/midi/src/main/scala/MidiTime.scala), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mall 12 sources are invalidated[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0 percent of all sources[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 12 Scala sources to /home/daniel/Project/git/sccontrol/modules/midi/target/scala-3.5.0/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: /home/daniel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.5.0/scala3-sbt-bridge-3.5.0.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 21aed912 for Scala Compiler version 3.5.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-feature[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-unchecked[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-source:future[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wunused:all[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xfatal-warnings[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xkind-projector:underscores[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.AsInstanceOf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.IsInstanceOf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.StringPlusAny[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.ToString[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.EitherProjectionPartial[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.OptionPartial[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.TryPartial[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.Enumeration[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.FinalCaseClass[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.JavaConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.Option2Iterable[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.JavaSerializable[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.AnyVal[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.ArrayEquals[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.ImplicitParameter[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.ExplicitImplicitTypes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.LeakingSealed[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.ListUnapply[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.ListAppend[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.GlobalExecutionContext[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:wartremover:traverser:org.wartremover.warts.PlatformDefault[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:target/scala-3.5.0/compiler_plugins/wartremover_3.5.0-3.2.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/daniel/Project/git/sccontrol/modules/midi/target/scala-3.5.0/classes:/home/daniel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.0/scala3-library_3-3.5.0.jar:/home/daniel/.cache/coursier/v1/https/djini.de/maven/release/de/djini/scutil-jdk_3/0.250.0/scutil-jdk_3-0.250.0.jar:/home/daniel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar:/home/daniel/.cache/coursier/v1/https/djini.de/maven/release/de/djini/scutil-core_3/0.250.0/scutil-core_3-0.250.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 5.108529033 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m

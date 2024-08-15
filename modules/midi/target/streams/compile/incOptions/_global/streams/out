@@ -1,0 +1,72 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/daniel/Project/git/sccontrol/modules/midi/target/scala-3.5.0/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/daniel/Project/git/sccontrol/modules/midi/target/scala-3.5.0/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiChannel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$NoteOff.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiVelocity$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiTime$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$ControlChange$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$NoteOff$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiValue$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiInfo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiClient$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$ControlChange.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiValue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiController$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiInfo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	package$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiVelocity.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$NoteOn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiKey.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiChannel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiServer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$NoteOn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiKey$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	package$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiTime.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiChannel.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$NoteOff.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiVelocity$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiServer$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiTime$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$ControlChange$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiHandler.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$NoteOff$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiValue$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiServer.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiInfo.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiClient$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$ControlChange.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiValue.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiController$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiClient.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiInfo$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	package$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiVelocity.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$NoteOn$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiClient$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiKey.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiController.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiChannel$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiServer$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$NoteOn.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiEvent$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiKey$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	package$package$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MidiTime.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/daniel/Project/git/sccontrol/modules/midi/target/scala-3.5.0/classes.bak[0m

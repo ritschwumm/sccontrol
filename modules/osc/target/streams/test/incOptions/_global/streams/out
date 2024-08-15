@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/daniel/Project/git/sccontrol/modules/osc/target/scala-3.5.0/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/daniel/Project/git/sccontrol/modules/osc/target/scala-3.5.0/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscServerTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscTimetagTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscFormatTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscFormatTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscTimetagTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscServerTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscServerTest.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscTimetagTest.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscFormatTest.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscFormatTest$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscTimetagTest$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OscServerTest$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/daniel/Project/git/sccontrol/modules/osc/target/scala-3.5.0/test-classes.bak[0m

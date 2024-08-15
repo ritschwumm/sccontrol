@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(fc4d82a5-0440-455b-a8de-025e639ae11e), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: sccontrol-midi / Test / test, sccontrol-osc / Test / test, sccontrol-device / Test / test, Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 24 Scala sources to /home/daniel/Project/git/sccontrol/modules/device/target/scala-3.3.1/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msccontrol.osc.OscTimetagTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msccontrol.osc.OscFormatTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OSC should roundtrip format and parse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OSC should parse a message[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OSC should parse a string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msccontrol.osc.OscServerTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscServer should accept messages[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 14, Failed 0, Errors 0, Passed 14[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed Sep 11, 2023, 8:32:42 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

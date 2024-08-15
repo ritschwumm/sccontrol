@@ -1,0 +1,26 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(sccontrol.osc.OscTimetagTest, minitest.runner.Framework$ModuleFingerprint$@4b60231, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(sccontrol.osc.OscFormatTest, minitest.runner.Framework$ModuleFingerprint$@4b60231, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(sccontrol.osc.OscServerTest, minitest.runner.Framework$ModuleFingerprint$@4b60231, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msccontrol.osc.OscTimetagTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscTimetag should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msccontrol.osc.OscFormatTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OSC should roundtrip format and parse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OSC should parse a message[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OSC should parse a string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msccontrol.osc.OscServerTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- OscServer should accept messages[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for minitest not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 14, Failed 0, Errors 0, Passed 14[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sccontrol.osc.OscServerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sccontrol.osc.OscTimetagTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sccontrol.osc.OscFormatTest[0m

@@ -22,6 +22,7 @@ object MidiClient {
 				if selectDevice(deviceInfo)
 
 				device		<- midiAvailable(MidiSystem.getMidiDevice(deviceInfo)).toVector
+				// NOTE -1 means "any number of" @see https://bugs.openjdk.org/browse/JDK-4667716
 				if device.getMaxReceivers != 0
 			}
 			yield device

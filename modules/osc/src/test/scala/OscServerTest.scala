@@ -14,7 +14,7 @@ object OscServerTest extends SimpleTestSuite {
 		val address		= InetAddress.getLoopbackAddress().socketAddress(4711)
 		OscServer.open(address, packet => Io.delay { received = packet })
 		.use { _ =>
-			Io.sleep(500.millis)
+			Io.sleep(500.duration.millis)
 		}
 		.unsafeRun()
 
